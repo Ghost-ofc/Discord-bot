@@ -39,4 +39,4 @@ client.on('message', message => {
 
 })
 
-client.login('ODI2NDY5MzA1NzU5Njk0ODQ4.YGM7hQ.8wJfpwxM0FWj98kBZsN99edki50')
+client.login('AQUI PONES EL TOKEN DE TU BOT EN DISCORD')
