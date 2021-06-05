@@ -31,6 +31,12 @@ client.on('message', message => {
     if (message.content === '!avatar') {
         message.reply(message.author.displayAvatarURL());
     }
+
+    if (message.content === "!cup") {
+        message.reply(`Este es el canal de telegram de mi amigo que enseña a crear tus propias cuentas gratis: https://t.me/XelalAprendo `)
+    }
+    
+
 })
 
 client.login('ODI2NDY5MzA1NzU5Njk0ODQ4.YGM7hQ.8wJfpwxM0FWj98kBZsN99edki50')
